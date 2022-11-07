@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=enrique-specht&label=Profile%20views&color=0e75b6&style=flat-square" alt="enrique-specht" />
 <a href="https://github.com/enrique-specht"><img src="https://img.shields.io/github/followers/enrique-specht?label=Follow&amp;style=social" alt="GitHub followers"></a>
-<a href="https://https://twitter.com/goldiGaming_"><img src="https://img.shields.io/twitter/follow/goldiGaming_?label=Follow&amp;style=social" alt="Twitter Follow"></a>
+<a href="https://twitter.com/goldiGaming_"><img src="https://img.shields.io/twitter/follow/goldiGaming_?label=Follow&amp;style=social" alt="Twitter Follow"></a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=enrique-specht&show_icons=true&theme=dark&locale=en&layout=compact" alt="enrique-specht" /></p>
