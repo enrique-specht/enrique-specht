@@ -25,12 +25,6 @@
       alt="GitHub followers"
     />
   </a>
-  <a href="https://twitter.com/goldiGaming_">
-    <img
-      src="https://img.shields.io/twitter/follow/goldiGaming_?label=Follow&amp;style=social"
-      alt="Twitter Follow"
-    />
-  </a>
 </p>
 
 <p align="center">
@@ -206,30 +200,3 @@
     data-target="animated-image.originalImage"
   />
 </p>
-
-<h2 align="center" style="font-weight: bold">Contact me</h2>
-<p align="center">
-  <a href="https://discord.gg/8yCVAK8" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="8yCVAK8"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    align="center"
-    style="margin: 1rem"
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-    style="max-width: 100%; display: inline-block"
-    data-target="animated-image.originalImage"
-  />
-</p>
-
-<h3 align="center">
-  <a href="https://youtu.be/frszEJb0aOo?t=4" rel="nofollow">"General Kenobi"</a>
-</h3>
